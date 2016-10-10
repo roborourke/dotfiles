@@ -1,0 +1,6 @@
+[submodule "lib/fonts/SanFranciscoFont"]
+	path = lib/fonts/SanFranciscoFont
+	url = git@github.com:AppleDesignResources/SanFranciscoFont.git
+[submodule "lib/phpcs/WP"]
+	path = lib/phpcs/WP
+	url = git@github.com:WordPress-Coding-Standards/WordPress-Coding-Standards.git
